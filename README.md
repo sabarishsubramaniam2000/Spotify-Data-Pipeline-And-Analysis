@@ -1,4 +1,4 @@
-# Spotify Data Pipeline and Analysis
+# Spotify Data Pipeline and Data Analysis
 
 <img width="854" alt="Data Pipeline" src="https://github.com/sabarishsubramaniam2000/Spotify-Data-Pipeline-And-Analysis/assets/84472301/2ece16cb-c403-470d-85ad-890cf1032414">
 
