@@ -18,6 +18,8 @@ The Spotify Data Pipeline and Analysis project is an end-to-end implementation t
 
 ## Tableau Dashboard
 
+https://public.tableau.com/app/profile/sabarish.subramaniam3258/viz/SpotifyDataAnalysis_17158893218970/SpotifyDataAnalysisDashboard
+
 <img width="880" alt="Spotify Tableau Dashboard" src="https://github.com/sabarishsubramaniam2000/Spotify-Data-Pipeline-And-Analysis/assets/84472301/2b3ba5db-8ec5-48e9-8144-12b3b5bad222">
 
 The dashboard presents a concise overview of Spotify data insights, encompassing key aspects of artist popularity and music genre trends. It features the top 10 artists, showcasing their popularity metrics and followers. Additionally, it ranks the top 15 genres by their popularity on Spotify, providing insight into listener preferences. The dashboard also compares the prevalence of explicit and non-explicit songs and explores the relationship between artist popularity and follower count. Lastly, it highlights the top 10 genres with the highest number of songs available, offering a glimpse into the breadth of musical content within each genre. Overall, the dashboard provides a comprehensive snapshot of music consumption patterns and trends on Spotify.
